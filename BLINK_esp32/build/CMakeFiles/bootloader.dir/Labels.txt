@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/ws-esp32/YOUTUBE_ESP32_vscode/BLINK_esp32/build/CMakeFiles/bootloader
+C:/ws-esp32/YOUTUBE_ESP32_vscode/BLINK_esp32/build/CMakeFiles/bootloader.rule
+C:/ws-esp32/YOUTUBE_ESP32_vscode/BLINK_esp32/build/CMakeFiles/bootloader-complete.rule
+C:/ws-esp32/YOUTUBE_ESP32_vscode/BLINK_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/ws-esp32/YOUTUBE_ESP32_vscode/BLINK_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/ws-esp32/YOUTUBE_ESP32_vscode/BLINK_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/ws-esp32/YOUTUBE_ESP32_vscode/BLINK_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/ws-esp32/YOUTUBE_ESP32_vscode/BLINK_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/ws-esp32/YOUTUBE_ESP32_vscode/BLINK_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/ws-esp32/YOUTUBE_ESP32_vscode/BLINK_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
